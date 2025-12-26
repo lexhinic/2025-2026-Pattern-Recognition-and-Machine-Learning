@@ -1,0 +1,26 @@
+{
+    "classes": [
+        "096.Hooded_Oriole",
+        "016.Painted_Bunting",
+        "031.Black_billed_Cuckoo",
+        "159.Black_and_white_Warbler",
+        "129.Song_Sparrow",
+        "116.Chipping_Sparrow",
+        "070.Green_Violetear",
+        "171.Myrtle_Warbler",
+        "175.Pine_Warbler",
+        "046.Gadwall"
+    ],
+    "class_to_idx": {
+        "096.Hooded_Oriole": 0,
+        "016.Painted_Bunting": 1,
+        "031.Black_billed_Cuckoo": 2,
+        "159.Black_and_white_Warbler": 3,
+        "129.Song_Sparrow": 4,
+        "116.Chipping_Sparrow": 5,
+        "070.Green_Violetear": 6,
+        "171.Myrtle_Warbler": 7,
+        "175.Pine_Warbler": 8,
+        "046.Gadwall": 9
+    }
+}
