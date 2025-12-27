@@ -146,5 +146,4 @@ bash scripts/run_task2_largeresnet.sh
 - `best_model.pth`: 最佳模型权重
 - `training_history.json`: 训练历史记录
 - `training_curves.png`: 训练曲线图
-- `confusion_matrix.png`: 混淆矩阵
 - `config.json`: 训练配置
